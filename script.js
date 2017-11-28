@@ -22,6 +22,7 @@ function calculateMousePos(evt) {
 }
 
 
+
 window.onload = function() {
 
     canvas = document.getElementById('gameCanvas');
